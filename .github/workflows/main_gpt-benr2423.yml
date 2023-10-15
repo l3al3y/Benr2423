@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'GPT-BENR2423'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8ED87501846436B9796CEB407AD96E9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_168DB064B5474995963751137478E5A9 }}
           package: .
